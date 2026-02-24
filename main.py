@@ -4,7 +4,7 @@ import random
 class SnakeGame:
     def __init__(self, root):
         self.root = root
-        self.root.title("Snake Game - Gemini AI")
+        self.root.title("Snake Game")
 
         # Начальные размеры
         self.width = 600
